@@ -48,9 +48,12 @@
 
 <br>
 
-- **Desarrollo Back-End **:
+- **Base de datos **:
 
-   ![HTML5](https://img.shields.io/badge/MYSQL%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+  
    
     
 <br>
@@ -61,7 +64,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Jet Brains](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+    ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 <br>
 
@@ -140,7 +144,7 @@
 
 <div align='center'>
 
-## <b>Que tenga un buen dia</b>
+## <b>Que tenga un buen dia    <img src="https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966">   </b>
 
 </div>
 <br>
