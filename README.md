@@ -69,7 +69,7 @@
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-
+    ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 <br>
 
