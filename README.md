@@ -116,9 +116,10 @@
 <ul>
 
 <li>
-<a href="mailto:izancueva9@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  izancueva9%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:izancueva9@gmail.com">
+  <img src="https://img.shields.io/badge/gmail: izancueva9%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+
 </li>
 	
 </ul>
