@@ -87,6 +87,21 @@
 
 <br>
 
+# 🌟 Repositorios Destacados
+
+Bienvenido a mi perfil de GitHub. A continuación, se presentan mis proyectos más relevantes, desarrollados con tecnologías modernas y enfocados en proporcionar soluciones innovadoras.
+
+## 🚀 Proyectos Principales
+
+### [Proyecto Final - Vesty](https://github.com/izancluac/Proyecto-Final)
+Este proyecto, desarrollado en **Kotlin**, es una aplicación inspirada en la venta de productos en línea. Vesty permite a los usuarios comprar y vender prendas, así como comunicarse directamente con los vendedores o compradores para concretar detalles de la transacción.
+
+La aplicación utiliza **Firebase** como base de datos y **Imgur** para la gestión de imágenes, garantizando una experiencia fluida y segura.
+
+### [Página Web de Vesty](https://github.com/izancluac/PaginaWeb)
+Este sitio web ha sido desarrollado utilizando **HTML, CSS y JavaScript**, con un diseño minimalista que ofrece una interfaz intuitiva. Su principal funcionalidad es facilitar la instalación de la aplicación, proporcionando una experiencia optimizada para los usuarios interesados en utilizar Vesty.
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
