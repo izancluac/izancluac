@@ -135,7 +135,7 @@ Este sitio web ha sido desarrollado utilizando **HTML, CSS y JavaScript**, con u
 <ul>
 
 <li>
-<a href="mailto:izancueva9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/izancueva9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="mailto:izanlopeztrab@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/izanlopeztrab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
 
 
 </li>
@@ -151,7 +151,7 @@ Este sitio web ha sido desarrollado utilizando **HTML, CSS y JavaScript**, con u
 
 <div align='center'>
 
-## <b>Que tenga un buen dia    <img src="https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966">   </b>
+## <b>Que tenga un buen dia <img src="https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966"> </b>
 
 </div>
 <br>
