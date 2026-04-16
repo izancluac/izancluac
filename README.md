@@ -135,7 +135,7 @@ Este sitio web ha sido desarrollado utilizando **HTML, CSS y JavaScript**, con u
 <ul>
 
 <li>
-<a href="mailto:izancueva9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/izancueva9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="mailto:izanlopeztrab@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/izancueva9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
 
 
 </li>
